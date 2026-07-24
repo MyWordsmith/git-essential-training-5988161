@@ -2,4 +2,6 @@ This is content
 
 This is an extra line
 
-And another smal
+And another small
+
+Proceed to learning
