@@ -27,6 +27,7 @@ Azure MVP and GitHub Star
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/barbara-forbes?u=104).
 
+Good job
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
